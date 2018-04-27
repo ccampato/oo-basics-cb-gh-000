@@ -22,5 +22,8 @@ class Shoe
     @material
   end
 
+  def conditions=(conditions)
+    @conditions = conditions
+  end
 
 end
