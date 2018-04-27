@@ -30,7 +30,9 @@ class Shoe
     @condition
   end
 
-  def coble
+  def cobble
+
+
 
   end
 
