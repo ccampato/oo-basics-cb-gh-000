@@ -23,11 +23,6 @@ class Shoe
   end
 
   def conditions=(condition)
-    @conditions = condition
-  end
-
-  def conditions
-    @conditions
   end
 
 end
