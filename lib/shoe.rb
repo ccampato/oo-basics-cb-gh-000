@@ -19,7 +19,6 @@ class Shoe
   end
 
   def material
-    @material.str
   end
 
 
