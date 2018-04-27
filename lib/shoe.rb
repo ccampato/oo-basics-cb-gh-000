@@ -22,7 +22,7 @@ class Shoe
     @material
   end
 
-  def conditions=(condition)
+  def condition=(condition)
   end
 
 end
